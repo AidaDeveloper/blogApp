@@ -1,0 +1,9 @@
+# Игнорируем node_modules только внутри frontend
+frontend/node_modules/
+
+# Кэш, логи и прочие временные файлы
+*.log
+.DS_Store
+.env
+
+
